@@ -5,6 +5,31 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-builder/compare/v4.0.11...HEAD).
 
 <a name="v4.0.11"></a>
+## [5.0.0](https://github.com/d3xter666/cli/compare/builder-v4.0.11...builder-v5.0.0) (2025-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** This marks the beginning of v5.0.0 pre-release cycle for the server package
+* **logger:** This marks the beginning of v5.0.0 pre-release cycle for the logger package
+
+### Features
+
+* **builder:** Enhance generateFlexChangeBundle task to add new 'flexBundle' property to the manifest.json ([#1165](https://github.com/d3xter666/cli/issues/1165)) ([7ee5914](https://github.com/d3xter666/cli/commit/7ee5914f5ee636b24846a8dbd9bc617adb9dbe45))
+* Initialize v5 prereleases ([92559df](https://github.com/d3xter666/cli/commit/92559dfb10936f32cca3314f756584370f225d7a))
+* **logger:** Initialize v5.0.0-alpha.0 pre-release ([315a7af](https://github.com/d3xter666/cli/commit/315a7af03650eb021d3de0d0917276fedfdf2a38))
+* **server:** Initialize v5.0.0-alpha.0 pre-release ([41d423f](https://github.com/d3xter666/cli/commit/41d423f4bf5e5bc0913867962c7d573715687c81))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @ui5/fs bumped from ^4.0.2 to ^5.0.0
+    * @ui5/logger bumped from ^4.0.2 to ^5.0.0
+  * devDependencies
+    * @ui5/project bumped from ^4.0.6 to ^5.0.0
+
 ## [v4.0.11] - 2025-09-11
 ### Bug Fixes
 - Rename project to UI5 CLI [`2d0cb3a`](https://github.com/SAP/ui5-builder/commit/2d0cb3a222508facec0a4103d048f92c2fd0b41f)

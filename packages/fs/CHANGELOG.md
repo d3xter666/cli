@@ -5,6 +5,28 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-fs/compare/v4.0.2...HEAD).
 
 <a name="v4.0.2"></a>
+## [5.0.0](https://github.com/d3xter666/cli/compare/fs-v4.0.2...fs-v5.0.0) (2025-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** This marks the beginning of v5.0.0 pre-release cycle for the server package
+* **logger:** This marks the beginning of v5.0.0 pre-release cycle for the logger package
+
+### Features
+
+* Initialize v5 prereleases ([92559df](https://github.com/d3xter666/cli/commit/92559dfb10936f32cca3314f756584370f225d7a))
+* **logger:** Initialize v5.0.0-alpha.0 pre-release ([315a7af](https://github.com/d3xter666/cli/commit/315a7af03650eb021d3de0d0917276fedfdf2a38))
+* **server:** Initialize v5.0.0-alpha.0 pre-release ([41d423f](https://github.com/d3xter666/cli/commit/41d423f4bf5e5bc0913867962c7d573715687c81))
+
+
+### Dependencies
+
+* bump globby from 14.1.0 to 15.0.0 ([#1152](https://github.com/d3xter666/cli/issues/1152)) ([2cb5cd1](https://github.com/d3xter666/cli/commit/2cb5cd1380f43086a2cf52ca7c15aa4a6ff09877))
+* The following workspace dependencies were updated
+  * dependencies
+    * @ui5/logger bumped from ^4.0.2 to ^5.0.0
+
 ## [v4.0.2] - 2025-09-11
 ### Bug Fixes
 - Rename project to UI5 CLI [`e8491c3`](https://github.com/SAP/ui5-fs/commit/e8491c39e879560eaa5056b1ee0e2377a4e88f0d)

@@ -5,6 +5,20 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-logger/compare/v4.0.2...HEAD).
 
 <a name="v4.0.2"></a>
+## [5.0.0](https://github.com/d3xter666/cli/compare/logger-v4.0.2...logger-v5.0.0) (2025-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** This marks the beginning of v5.0.0 pre-release cycle for the server package
+* **logger:** This marks the beginning of v5.0.0 pre-release cycle for the logger package
+
+### Features
+
+* Initialize v5 prereleases ([92559df](https://github.com/d3xter666/cli/commit/92559dfb10936f32cca3314f756584370f225d7a))
+* **logger:** Initialize v5.0.0-alpha.0 pre-release ([315a7af](https://github.com/d3xter666/cli/commit/315a7af03650eb021d3de0d0917276fedfdf2a38))
+* **server:** Initialize v5.0.0-alpha.0 pre-release ([41d423f](https://github.com/d3xter666/cli/commit/41d423f4bf5e5bc0913867962c7d573715687c81))
+
 ## [v4.0.2] - 2025-09-11
 ### Bug Fixes
 - Rename project to UI5 CLI [`18d935a`](https://github.com/SAP/ui5-logger/commit/18d935a7caf7d53312b4f3976b0075aeae608902)
