@@ -5,6 +5,33 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-project/compare/v4.0.6...HEAD).
 
 <a name="v4.0.6"></a>
+## [5.0.0](https://github.com/d3xter666/cli/compare/project-v4.0.6...project-v5.0.0) (2025-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** This marks the beginning of v5.0.0 pre-release cycle for the server package
+* **logger:** This marks the beginning of v5.0.0 pre-release cycle for the logger package
+
+### Features
+
+* Initialize v5 prereleases ([92559df](https://github.com/d3xter666/cli/commit/92559dfb10936f32cca3314f756584370f225d7a))
+* **logger:** Initialize v5.0.0-alpha.0 pre-release ([315a7af](https://github.com/d3xter666/cli/commit/315a7af03650eb021d3de0d0917276fedfdf2a38))
+* **project:** Add component type ([46eb4e4](https://github.com/d3xter666/cli/commit/46eb4e4ec45b26495b5248354966701eb8c6b374))
+* **project:** Add Specification Version 5.0 ([1452401](https://github.com/d3xter666/cli/commit/1452401b2a26bc60a34dae2d16ab82e0d78f404c))
+* **server:** Initialize v5.0.0-alpha.0 pre-release ([41d423f](https://github.com/d3xter666/cli/commit/41d423f4bf5e5bc0913867962c7d573715687c81))
+
+
+### Dependencies
+
+* Bump js-yaml ([#1197](https://github.com/d3xter666/cli/issues/1197)) ([78d312b](https://github.com/d3xter666/cli/commit/78d312bc62fa7004ddca87f44ca6acac94e9d1fa))
+* The following workspace dependencies were updated
+  * dependencies
+    * @ui5/fs bumped from ^4.0.2 to ^5.0.0
+    * @ui5/logger bumped from ^4.0.2 to ^5.0.0
+  * peerDependencies
+    * @ui5/builder bumped from ^4.0.11 to ^5.0.0
+
 ## [v4.0.6] - 2025-09-12
 
 <a name="v4.0.5"></a>
