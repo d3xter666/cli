@@ -5,6 +5,30 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-project/compare/v4.0.6...HEAD).
 
 <a name="5.0.0-alpha.1"></a>
+## [5.0.0-alpha.2](https://github.com/d3xter666/cli/compare/project-v5.0.0-alpha.1...project-v5.0.0-alpha.2) (2025-12-11)
+
+
+### Features
+
+* **project:** Add component type ([46eb4e4](https://github.com/d3xter666/cli/commit/46eb4e4ec45b26495b5248354966701eb8c6b374))
+* **project:** Add Specification Version 5.0 ([1452401](https://github.com/d3xter666/cli/commit/1452401b2a26bc60a34dae2d16ab82e0d78f404c))
+
+
+### Bug Fixes
+
+* Bump from 5.0.0-alpha.0 to 5.0.0-alpha.1 ([#1236](https://github.com/d3xter666/cli/issues/1236)) ([220452a](https://github.com/d3xter666/cli/commit/220452a77f6062e24d4473f7eb4098e5d3700aed))
+
+
+### Dependencies
+
+* Bump js-yaml ([#1197](https://github.com/d3xter666/cli/issues/1197)) ([78d312b](https://github.com/d3xter666/cli/commit/78d312bc62fa7004ddca87f44ca6acac94e9d1fa))
+* The following workspace dependencies were updated
+  * dependencies
+    * @ui5/fs bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+    * @ui5/logger bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+  * peerDependencies
+    * @ui5/builder bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+
 ## [5.0.0-alpha.1](https://github.com/UI5/cli/compare/project-v5.0.0-alpha.0...project-v5.0.0-alpha.1) (2025-12-10)
 
 
