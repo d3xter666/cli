@@ -5,6 +5,28 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 A list of unreleased changes can be found [here](https://github.com/SAP/ui5-builder/compare/v4.0.11...HEAD).
 
 <a name="5.0.0-alpha.1"></a>
+## [5.0.0-alpha.2](https://github.com/d3xter666/cli/compare/builder-v5.0.0-alpha.1...builder-v5.0.0-alpha.2) (2025-12-11)
+
+
+### Features
+
+* **builder:** Enhance generateFlexChangeBundle task to add new 'flexBundle' property to the manifest.json ([#1165](https://github.com/d3xter666/cli/issues/1165)) ([7ee5914](https://github.com/d3xter666/cli/commit/7ee5914f5ee636b24846a8dbd9bc617adb9dbe45))
+
+
+### Bug Fixes
+
+* Bump from 5.0.0-alpha.0 to 5.0.0-alpha.1 ([#1236](https://github.com/d3xter666/cli/issues/1236)) ([220452a](https://github.com/d3xter666/cli/commit/220452a77f6062e24d4473f7eb4098e5d3700aed))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @ui5/fs bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+    * @ui5/logger bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+  * devDependencies
+    * @ui5/project bumped from ^5.0.0-alpha.1 to ^5.0.0-alpha.2
+
 ## [5.0.0-alpha.1](https://github.com/UI5/cli/compare/builder-v5.0.0-alpha.0...builder-v5.0.0-alpha.1) (2025-12-10)
 
 
